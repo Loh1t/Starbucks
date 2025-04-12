@@ -1,0 +1,21 @@
+starbucks_id,drink_name,description,average_making_time (min)
+S1,Caffè Americano,"Espresso shots diluted with hot water, creating a rich, bold coffee flavor.",3
+S2,Caramel Macchiato,"Espresso with steamed milk, vanilla syrup, and caramel drizzle.",4
+S3,Caffè Latte,Espresso with steamed milk and a thin layer of foam.,3
+S4,Mocha (Caffè Mocha),"Espresso with steamed milk, mocha syrup, and whipped cream.",4
+S5,Flat White,"Ristretto shots with steamed milk, velvety texture.",3
+S6,Pumpkin Spice Latte (Seasonal),"Espresso with steamed milk, pumpkin spice syrup, topped with whipped cream.",5
+S7,Nitro Cold Brew,"Cold brew infused with nitrogen for a smooth, creamy texture.",3
+S8,Iced Caramel Macchiato,"Iced espresso with vanilla syrup, milk, and caramel drizzle.",4
+S9,Iced Matcha Latte,Matcha green tea powder mixed with milk and ice for a refreshing taste.,4
+S10,Frappuccino (Various Flavors),"Blended iced drinks, popular variations include Coffee, Mocha, Java Chip, and Caramel.",5
+S11,Iced Coffee,"Cold brew coffee served over ice, can be sweetened or flavored.",3
+S12,Iced Flat White,Iced ristretto shots with milk for a smooth cold drink.,4
+S13,Chai Latte,Spiced tea concentrate with steamed milk for a warming drink.,4
+S14,Green Tea Latte,Matcha green tea powder with steamed milk and sugar.,4
+S15,Caramel Frappuccino,"Blended caramel syrup with ice, topped with whipped cream.",5
+S16,Iced Tea Lemonade (Various),"Iced tea with lemonade, available in black, green, and hibiscus varieties.",4
+S17,Pink Drink,"Coconut milk, strawberry acai refresher, and freeze-dried strawberries.",4
+S18,Dragon Drink,"Mango dragonfruit refresher with coconut milk, garnished with freeze-dried dragonfruit.",4
+S19,Strawberry Acai Refresher,Strawberry acai refresher with freeze-dried strawberries.,4
+S20,Hot Chocolate,Steamed milk with cocoa powder and topped with whipped cream.,4
